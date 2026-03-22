@@ -1,121 +1,121 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:8000ff,100:00ffff&height=200&section=header&text=KUMAR%20NALIN&fontSize=60&fontAlign=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&descAlign=50&descAlignY=60&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0612,50:1e0f3a,100:2a1a5e&height=200&section=header&text=KUMAR%20NALIN&fontSize=60&fontAlign=50&fontColor=c8b4e8&animation=fadeIn&fontAlignY=35&desc=Seeker%20of%20the%20Pale%20Flame%20%7C%20Architect%20of%20Forgotten%20Halls&descAlign=50&descAlignY=60&descSize=16&descColor=8a7aaa" />
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&color=FFE81F&center=true&vCenter=true&width=800&height=200&lines=A+long+time+ago+in+a+repo+far,+far+away...;There+was+a+developer+named+Nalin+👨‍💻;Who+mastered+AI,+ML+and+the+Web;Building+intelligent+apps+and+systems...;The+adventure+continues+➡️" alt="Star Wars Crawl" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=17&color=c8b4e8&center=true&vCenter=true&width=800&height=180&lines=In+the+depths+of+Hallownest%2C+a+vessel+awakens...;Carrying+the+weight+of+forgotten+code;Traversing+ancient+systems+and+broken+archives;Building+what+the+old+kingdom+never+could...;The+void+calls.+The+work+continues." alt="Hollow Knight Crawl" />
 </p>
+
 <div align="center">
-  
-```ascii
-███╗   ██╗███████╗██╗   ██╗██████╗  █████╗ ██╗     ██╗███╗   ██╗██╗  ██╗
-████╗  ██║██╔════╝██║   ██║██╔══██╗██╔══██╗██║     ██║████╗  ██║██║ ██╔╝
-██╔██╗ ██║█████╗  ██║   ██║██████╔╝███████║██║     ██║██╔██╗ ██║█████╔╝ 
-██║╚██╗██║██╔══╝  ██║   ██║██╔══██╗██╔══██║██║     ██║██║╚██╗██║██╔═██╗ 
-██║ ╚████║███████╗╚██████╔╝██║  ██║██║  ██║███████╗██║██║ ╚████║██║  ██╗
-╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
+
 ```
-# Profile
-
-</div>
-Welcome to my profile!
-
-Here you can find all the projects I have worked on. If you want to reach out, feel free to contact me at nalintiwary18@example.com.
-
-<div align="center">
-## Projects
-
-[![Matrix](https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge&logo=matrix&logoColor=black&labelColor=000000)](https://github.com/your-username)
-[![Cyberpunk](https://img.shields.io/badge/LOCATION-NIGHT_CITY-ff0080?style=for-the-badge&logo=cityscape&logoColor=white&labelColor=000000)](https://github.com/your-username)
-[![AI](https://img.shields.io/badge/NEURAL_LINK-ACTIVE-00ffff?style=for-the-badge&logo=brain&logoColor=black&labelColor=000000)](https://github.com/your-username)
+  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  ░  ╔═══╗ ░ ╦╔═╦ ╦╔╦╗╔═╗╦═╗  ░  ╔╗╔╔═╗╦  ╦╔╗╔  ░░░░░  ░
+  ░  ╠═╩╗╠ ░ ╠╩╗║ ║║║║╠═╣╠╦╝  ░  ║║║╠═╣║  ║║║║  ░░░░░  ░
+  ░  ╚═══╝ ░ ╩ ╩╚═╝╩ ╩╩ ╩╩╚═  ░  ╝╚╝╩ ╩╩═╝╩╝╚╝  ░░░░░  ░
+  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  ░░░░░░░   *   ░░░░░░   the pale king's archives   ░░░░░
+  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
 
 </div>
 
 ---
 
-## 🌃 SYSTEM.PROFILE.OVERRIDE
+<div align="center">
+
+[![Soul](https://img.shields.io/badge/SOUL-VESSEL_SEALED-c8b4e8?style=for-the-badge&labelColor=0a0612&color=2a1a5e)](https://github.com/nalintiwary18)
+[![Kingdom](https://img.shields.io/badge/KINGDOM-HALLOWNEST_SECTOR-8a7aaa?style=for-the-badge&labelColor=0a0612&color=1e0f3a)](https://github.com/nalintiwary18)
+[![Infection](https://img.shields.io/badge/VOID-FLAME_CONTAINED-f0a050?style=for-the-badge&labelColor=0a0612&color=3a1a0a)](https://github.com/nalintiwary18)
+
+</div>
+
+---
+
+## ⬡ THE VESSEL'S CODEX
 
 ```python
-class CyberSamurai:
+class ForgottenVessel:
     def __init__(self):
-        self.name = "Kumar Nalin"
-        self.role = "AI Architect | Full-Stack Netrunner"
-        self.location = "Night City, Delhi Sector"
-        self.neural_implants = [
-            "🧠 Deep Learning Neural Core",
-            "⚡ Generative AI Processing Unit", 
-            "🔮 RAG System Memory Bank",
-            "💻 Full-Stack Combat Interface",
-            "🎵 Music AI Synthesis Module"
+        self.name       = "Kumar Nalin"
+        self.title      = "AI Architect | Seeker of the Deep Code"
+        self.kingdom    = "Hallownest, Delhi Sector"
+        self.charms_equipped = [
+            "🧠 Deep Learning — Neural Lace",
+            "⬡  Generative AI — Void Heart",
+            "📜 RAG Systems  — King's Brand",
+            "🕸️  Full-Stack   — Mantis Claw",
+            "🎵 Music AI     — Dreamshield",
         ]
-        self.status = "ONLINE & OPERATIONAL"
-        self.mission_completion = "89.2%"
+        self.shade      = None          # no regrets left behind
+        self.geo        = 89_200        # mission completion
     
-    def execute_daily_routine(self):
-        while self.status == "ONLINE":
+    def descend(self):
+        while True:
             self.train_models()
-            self.build_applications()
-            self.optimize_algorithms()
-            return "Neural networks trained. Reality hacked. ✨"
+            self.forge_applications()
+            self.map_uncharted_voids()
+            # "No mind to think. No will to break. No voice to cry suffering."
 ```
 
 ---
 
-## ⚡ NEURAL ARSENAL (TECH STACK)
+## ⬡ CHARMS EQUIPPED · TECH RELICS
 
 <div align="center">
 
-### 🤖 **AI & MACHINE LEARNING**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+### 🧠 · ARCANE ARTS (AI & ML)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2a1a5e?style=for-the-badge&logo=tensorflow&logoColor=c8b4e8)
+![PyTorch](https://img.shields.io/badge/PyTorch-1e0f3a?style=for-the-badge&logo=pytorch&logoColor=c8b4e8)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-0f0a1e?style=for-the-badge&logo=scikit-learn&logoColor=8a9aee)
+![OpenAI](https://img.shields.io/badge/OpenAI-1a1030?style=for-the-badge&logo=openai&logoColor=c8b4e8)
 
-### 💻 **FULL-STACK WEAPONS**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+### 🕸️ · MANTIS ARTS (FULL-STACK)
+![React](https://img.shields.io/badge/React-0a0612?style=for-the-badge&logo=react&logoColor=7af0e8)
+![Next.js](https://img.shields.io/badge/Next.js-0f0a1e?style=for-the-badge&logo=nextdotjs&logoColor=c8b4e8)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a1a18?style=for-the-badge&logo=fastapi&logoColor=6ecfba)
+![Node.js](https://img.shields.io/badge/Node.js-0a1a0f?style=for-the-badge&logo=node.js&logoColor=7ad4a0)
 
-### 🗄️ **DATA VAULTS**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### 📜 · PALE KING'S VAULTS (DATA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0f2e?style=for-the-badge&logo=postgresql&logoColor=9ab4f8)
+![Supabase](https://img.shields.io/badge/Supabase-0a1a12?style=for-the-badge&logo=supabase&logoColor=6ecfba)
+![Redis](https://img.shields.io/badge/Redis-1a0a0a?style=for-the-badge&logo=redis&logoColor=e87a7a)
 
 </div>
 
 ---
 
-## 🎮 ACTIVE MISSIONS (PROJECT PORTFOLIO)
+## ⬡ MAPS OF THE ANCIENT KINGDOM · PROJECTS
 
 <table align="center">
 <tr>
 <td width="50%">
 
-### 🎵 **VibeSync**
+### 🎵 **VibeSync** · *The Dreamers' Melody*
 ```yaml
-Type: Neural Music Recommender
-Status: ████████████████████ 100% DEPLOYED
-Features:
-  - Mood-based song analysis
-  - Spotify API integration  
-  - Real-time vibe matching
-  - Personalized playlists
-Tech: Python | Spotify API | ML | React
+Classification : Soul Resonance Engine
+Seal Status    : ████████████████████ 100% BOUND
+Inscriptions   :
+  ∘ Mood-attuned song weaving
+  ∘ Pact with the Spotify Wyrm
+  ∘ Real-time vibe harmonics
+  ∘ Curated dream playlists
+Relics Used    : Python · Spotify API · ML · React
 ```
 
 </td>
 <td width="50%">
 
-### 📡 **LogMind**
+### 📡 **LogMind** · *The Watcher's Eye*
 ```yaml
-Type: Big Data Anomaly Hunter  
-Status: ████████████████████ 90% BETA
-Features:
-  - Kafka stream processing
-  - ML anomaly detection
-  - BigQuery analytics
-  - Real-time dashboards
-Tech: Spark | Kafka | BigQuery | Python
+Classification : Anomaly Seeking Sentinel
+Seal Status    : ████████████████░░░░ 90% WATCHING
+Inscriptions   :
+  ∘ Kafka stream divination
+  ∘ Infection pattern detection
+  ∘ BigQuery oracle consulting
+  ∘ Real-time ruin dashboards
+Relics Used    : Spark · Kafka · BigQuery · Python
 ```
 
 </td>
@@ -123,31 +123,31 @@ Tech: Spark | Kafka | BigQuery | Python
 <tr>
 <td width="50%">
 
-### 🌆 **Voyatri**
+### 🌆 **Voyatri** · *The Crossroads Map*
 ```yaml
-Type: Mood-Based City Navigator
-Status: ██████████████░░░░░░ 70% ACTIVE
-Features:
-  - AI mood detection
-  - Personalized Delhi routes
-  - Vector-based recommendations
-  - Real-time itinerary generation
-Tech: React | FastAPI | Supabase | Maps
+Classification : City Navigation Grimoire
+Seal Status    : ████████████░░░░░░░░ 70% CHARTED
+Inscriptions   :
+  ∘ AI mood cartography
+  ∘ Forgotten Delhi passages
+  ∘ Vector-laced waypoints
+  ∘ Living itinerary scrolls
+Relics Used    : React · FastAPI · Supabase · Maps
 ```
 
 </td>
 <td width="50%">
 
-### 🔮 **OceanRAG**
+### 🔮 **OceanRAG** · *The Abyss Interface*
 ```yaml
-Type: Neural Ocean Interface
-Status: ████████████░░░░░░░░ 60% DEVELOPMENT
-Features:
-  - Argo float data pipeline
-  - FAISS vector database
-  - RAG-powered SQL generation
-  - Ocean data visualization
-Tech: Python | FastAPI | FAISS | Plotly
+Classification : Deep Void Data Oracle
+Seal Status    : ████████░░░░░░░░░░░░ 60% DESCENDING
+Inscriptions   :
+  ∘ Argo float data pipelines
+  ∘ FAISS void-vector lattice
+  ∘ RAG-woven SQL incantations
+  ∘ Ocean depth visualizations
+Relics Used    : Python · FastAPI · FAISS · Plotly
 ```
 
 </td>
@@ -156,25 +156,20 @@ Tech: Python | FastAPI | FAISS | Plotly
 
 ---
 
-
-</div>
-
----
-
-## 🌐 NEURAL NETWORK (CONNECT)
+## ⬡ PATHS BETWEEN KINGDOMS · CONNECT
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=00ffff)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/🐦_TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/📧_SECURE_LINK-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🕸️_KINGDOM_MAP-0a0612?style=for-the-badge&logo=react&logoColor=c8b4e8)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/📜_PALE_RECORD-0a0f2e?style=for-the-badge&logo=linkedin&logoColor=9ab4f8)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/🌑_HOLLOW_VOICE-0a0f1e?style=for-the-badge&logo=twitter&logoColor=9ab4f8)](https://twitter.com/your-handle)
+[![Email](https://img.shields.io/badge/📧_SEAL_CONTACT-1a0a0a?style=for-the-badge&logo=gmail&logoColor=e8b4b4)](mailto:nalintiwary18@example.com)
 
 </div>
 
 ---
 
-## 🎵 CURRENT NEURAL SOUNDTRACK
+## ⬡ SOUL CONDUIT · NOW PLAYING
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=your-spotify-username&count=1&unique=true" />
@@ -182,23 +177,23 @@ Tech: Python | FastAPI | FAISS | Plotly
 
 ---
 
-## ⚡ LIVE ACTIVITY FEED
+## ⬡ THE KINGDOM'S ACTIVITY · LIVE RECORD
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nalintiwary18&theme=redical&bg_color=0d1117&color=00ffff&line=ff0080&point=ffed00&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nalintiwary18&theme=github-compact&bg_color=0a0612&color=c8b4e8&line=5a3a8e&point=f0a050&area=true&hide_border=true" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,50:ff0080,100:ffed00&height=120&section=footer&animation=fadeIn" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a1a5e,50:1e0f3a,100:0a0612&height=120&section=footer&animation=fadeIn" />
+</p>
 
 <div align="center">
-  
-### 💀 *"In Night City, you either code or get coded."*  
-### 🌃 *Building Tomorrow's AI - One Neural Network at a Time*  
 
-[![Visitor Count](https://komarev.com/ghpvc/?username=nalintiwary18&color=ff0080&style=for-the-badge&label=GHOST+VISITORS)](https://github.com/nalintiwary18)
+### *"No mind to think. No will to break. No voice to cry suffering."*
+### *Descending deeper — one commit at a time.*
+
+[![Wandering Husks](https://komarev.com/ghpvc/?username=nalintiwary18&color=5a3a8e&style=for-the-badge&label=WANDERING+HUSKS)](https://github.com/nalintiwary18)
 
 </div>
