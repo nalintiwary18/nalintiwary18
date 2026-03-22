@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=17&color=c8b4e8&center=true&vCenter=true&width=800&height=180&lines=In+the+depths+of+Hallownest%2C+a+vessel+awakens...;Carrying+the+weight+of+forgotten+code;Traversing+ancient+systems+and+broken+archives;Building+what+the+old+kingdom+never+could...;The+void+calls.+The+work+continues." alt="Hollow Knight Crawl" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=17&color=c8b4e8&center=true&vCenter=true&width=800&height=180&lines=No+cost+too+great.;No+mind+to+think.;No+will+to+break.;No+voice+to+cry+suffering.;Born+of+God+and+Void.;You+shall+seal+the+blinding+light+that+plagues+their+dreams.;You+are+the+Vessel.;You+are+the+Hollow+Knight." alt="Hollow Knight Crawl" />
 </p>
 
 <div align="center">
