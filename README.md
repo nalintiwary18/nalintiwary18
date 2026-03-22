@@ -177,11 +177,26 @@ Relics Used    : Python · FastAPI · FAISS · Plotly
 
 ---
 
+## ⬡ THE VOID CONSUMES · CONTRIBUTION TRAIL
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/nalintiwary18/nalintiwary18/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/nalintiwary18/nalintiwary18/output/github-snake.svg" />
+    <img alt="github contribution snake" 
+      src="https://raw.githubusercontent.com/nalintiwary18/nalintiwary18/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
 ## ⬡ THE KINGDOM'S ACTIVITY · LIVE RECORD
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nalintiwary18&theme=github-compact&bg_color=0a0612&color=c8b4e8&line=5a3a8e&point=f0a050&area=true&hide_border=true" />
 </div>
+
+
 
 ---
 
