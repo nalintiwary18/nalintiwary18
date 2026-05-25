@@ -8,10 +8,26 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=0ea5e9)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=ef4444)](mailto:nalintiwary18@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-0f172a?style=flat-square&logo=twitter&logoColor=38bdf8)](https://twitter.com/your-handle)
+<br/>
+
+<div align="center">
+  <a href="https://kumarnalin.me">
+    <img src="https://img.shields.io/badge/kumarnalin.me-0f172a?style=flat-square&logo=safari&logoColor=f8fafc&labelColor=0f172a" height="28"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/kumarnalin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=0ea5e9&labelColor=0f172a" height="28"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/__n_k_t___">
+    <img src="https://img.shields.io/badge/Instagram-0f172a?style=flat-square&logo=instagram&logoColor=e879f9&labelColor=0f172a" height="28"/>
+  </a>
+  &nbsp;
+  <a href="mailto:nalinkt.23@gmail.com">
+    <img src="https://img.shields.io/badge/nalinkt.23@gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=ef4444&labelColor=0f172a" height="28"/>
+  </a>
+</div>
+<br/>
 
 </div>
 
@@ -24,62 +40,73 @@ I'm an AI engineer and full-stack developer based in Delhi, focused on building 
 My current interests: LLM orchestration, semantic retrieval, real-time AI streaming, and developer tooling.
 
 ---
+<br/>
 
-## Tech Stack
+## Stack
 
-**AI & ML**
-`LangGraph` `LangChain` `OpenAI API` `Gemini API` `Ollama` `FAISS` `RAG` `Streaming AI`
+<div align="center">
 
-**Frontend**
-`Next.js` `React` `TypeScript` `TailwindCSS` `Framer Motion`
+| Layer | Tools |
+|---|---|
+| **AI / ML** | LangGraph · LangChain · OpenAI · Gemini · Ollama · FAISS · RAG |
+| **Frontend** | Next.js · React · TypeScript · TailwindCSS · Framer Motion |
+| **Backend** | FastAPI · Node.js · Python · PostgreSQL · Supabase · Redis |
+| **Infra** | Vercel · Docker · Kafka · BigQuery · AST Parsing · Pydantic |
 
-**Backend & Data**
-`FastAPI` `Node.js` `Python` `PostgreSQL` `Supabase` `Redis` `Kafka` `BigQuery`
+</div>
 
-**Infra & Tooling**
-`Vercel` `Docker` `AST Parsing` `Pydantic` `Google OAuth`
+<br/>
 
----
+--- 
+<br/>
 
-## Projects
+Projects
+<table>
+<tr>
+<td valign="top" width="50%">
+🔷 Notovo  ·  2026
 
-### [Notovo](https://notovo.in) — AI-Powered Notes & Documentation Platform `2026`
+AI-Powered Notes & Documentation Platform
 
-Production EdTech platform for automated note generation, contextual document understanding, and iterative answer refinement, deployed across `notovo.in` and `app.notovo.in`.
+Production EdTech platform for automated note generation, contextual document understanding, and iterative answer refinement — deployed at notovo.in.
+Highlights
 
-- Engineered a **sequential multi-agent review pipeline** using LangGraph to critique, refine, and improve generated educational content — reducing hallucinations and improving consistency.
-- Implemented **real-time streaming AI responses**, context-aware prompt orchestration, chat history persistence, AI-assisted text version control, and a "Thinking Mode" for transparent reasoning.
-- Designed a temporary document-processing pipeline with secure 3-hour file retention and HTML-based generation storage via Supabase PostgreSQL.
-- Achieved **1.1s FCP**, **48ms INP**, and **0.42s TTFB** through systematic frontend performance optimization.
+Sequential multi-agent review pipeline via LangGraph to critique and refine generated content — reduced hallucinations, improved consistency
+Real-time streaming AI responses, "Thinking Mode" for transparent reasoning, AI-assisted text version control
+1.1s FCP · 48ms INP · 0.42s TTFB
+Secure 3-hour file retention pipeline with Supabase-backed storage
 
-`Next.js` `Supabase` `LangGraph` `TypeScript` `Vercel` `Google OAuth` `Streaming AI APIs`
+Next.js Supabase LangGraph TypeScript Vercel
+</td>
+<td valign="top" width="50%">
+🔷 Code Sage
 
----
+AI Codebase Audit & Static Analysis System
 
-### Code Sage — AI Codebase Audit & Static Analysis System
+Production-grade system for automated repository onboarding, vulnerability detection, and technical debt analysis.
+Highlights
 
-Production-grade AI-powered auditing system for automated onboarding, vulnerability detection, and technical debt analysis across large repositories.
+LangGraph multi-agent pipeline coordinating agents for repo understanding, issue detection, peer review, and report generation
+Dual-coordinate structural validation — eliminated line-reference hallucinations entirely
+SHA-256 content-addressable incremental cache — near-zero repeated analysis latency
+Multi-model: OpenAI · Gemini · Claude · Groq · Ollama — offline/local audit support
 
-- Architected a **LangGraph multi-agent orchestration pipeline** coordinating specialized agents for repository understanding, issue detection, peer review, and technical report generation.
-- Built a **deterministic chunk retrieval engine** using AST parsing and complexity-based heuristics to optimize token usage while preserving architectural context.
-- Eliminated line-reference hallucinations via a **dual-coordinate structural validation system** mapping chunk-relative LLM outputs back to verified file-level coordinates.
-- Implemented **SHA-256 content-addressable incremental caching**, reducing repeated analysis latency to near-zero and cutting redundant LLM inference costs on unchanged files.
-- Multi-model support across **OpenAI, Gemini, Claude, Groq, and Ollama** with offline/local security auditing workflows.
+Python LangGraph AST Parsing Pydantic Click Rich
+</td>
+</tr>
+<tr>
+<td valign="top" colspan="2">
+🔷 Voyatri
 
-`Python` `LangGraph` `AST Parsing` `Pydantic` `Click` `Rich` `Ollama` `OpenAI API` `Gemini API`
+Mood-Based Travel Discovery & Curation Platform
 
----
-
-### [Voyatri](https://github.com/nalintiwary18) — Mood-Based Travel Discovery Platform
-
-Full-stack travel discovery platform transforming natural-language mood queries into personalized location recommendations.
-
-- Built a **TikTok-style vertical swipe discovery feed** with curated "Decks" — enabling users to create, share, like, and save aesthetic travel itineraries and location collections.
-- Engineered a **recommendation engine** combining tag matching, user preference scoring, and popularity weighting for ~50ms API response times.
-- Reduced image bandwidth and storage costs by **80%+** via browser-side Canvas compression and automated WebP/JPEG optimization before Supabase Storage uploads.
-- Designed a **production-ready admin moderation system** with verification workflows, analytics dashboards, and community-driven place submissions.
-
-`Next.js` `React` `Supabase` `TailwindCSS` `Framer Motion` `PostgreSQL` `Vercel`
+Full-stack platform transforming natural-language mood queries into personalized location recommendations.
+Highlights  ·  TikTok-style swipe discovery feed with curated "Decks"  ·  ~50ms API response time via tag-matching + preference-scored ranking engine  ·  80%+ reduction in image bandwidth via browser-side Canvas compression + WebP/JPEG optimization  ·  Production-ready admin moderation + analytics dashboard  ·  Zero-layout-shift masonry rendering with animated interactions
+Next.js React Supabase TailwindCSS Framer Motion PostgreSQL Vercel
+</td>
+</tr>
+</table>
+<br/>
 
 ---
 
